@@ -10,6 +10,7 @@ Actuellement, deux plugins officiels sont disponibles :
 ## Étendre la configuration ESLint
 
 Si vous développez une application de production, nous recommandons d'utiliser TypeScript et d'activer les règles de lint basées sur les types. Consultez le [modèle TypeScript](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) pour intégrer TypeScript et [`typescript-eslint`](https://typescript-eslint.io) dans votre projet.
+
 ## Fonctionnalités du projet
 
 - **Gestion des tâches** : Ajoutez, modifiez et supprimez des tâches facilement.
@@ -39,26 +40,3 @@ Si vous développez une application de production, nous recommandons d'utiliser 
     ```
     http://localhost:3000
     ```
-
-## Contribution
-
-Les contributions sont les bienvenues ! Si vous souhaitez contribuer, veuillez suivre ces étapes :
-
-1. Forkez le projet.
-2. Créez une branche pour votre fonctionnalité ou correction de bug :
-    ```bash
-    git checkout -b ma-nouvelle-fonctionnalite
-    ```
-3. Effectuez vos modifications et validez-les :
-    ```bash
-    git commit -m "Ajout d'une nouvelle fonctionnalité"
-    ```
-4. Poussez vos modifications :
-    ```bash
-    git push origin ma-nouvelle-fonctionnalite
-    ```
-5. Ouvrez une Pull Request.
-
-## Licence
-
-Ce projet est sous licence MIT. Consultez le fichier [LICENSE](./LICENSE) pour plus d'informations.
