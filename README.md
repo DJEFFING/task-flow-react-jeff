@@ -22,7 +22,7 @@ Si vous développez une application de production, nous recommandons d'utiliser 
 
 1. Clonez le dépôt :
     ```bash
-    git clone https://github.com/votre-utilisateur/task-flow-djeff.git
+    git clone https://github.com/DJEFFING/task-flow-react-jeff.git
     cd task-flow-djeff
     ```
 
@@ -44,6 +44,6 @@ Si vous développez une application de production, nous recommandons d'utiliser 
 ## NB
 1. Pour crée se projet, j'ai utiliser la comande suivante :
    ```
-   npm create vite@latest my-vue-app -- --template vue
+   npm create vite@latest task-flow-react-jeff -- --template vue
    ```
    
