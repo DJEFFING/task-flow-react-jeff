@@ -23,7 +23,7 @@ Si vous développez une application de production, nous recommandons d'utiliser 
 1. Clonez le dépôt :
     ```bash
     git clone https://github.com/DJEFFING/task-flow-react-jeff.git
-    cd task-flow-djeff
+    cd task-flow-react-jeff
     ```
 
 2. Installez les dépendances :
