@@ -40,3 +40,10 @@ Si vous développez une application de production, nous recommandons d'utiliser 
     ```
     http://localhost:3000
     ```
+
+## NB
+1. Pour crée se projet, j'ai utiliser la comande suivante :
+   ```
+   npm create vite@latest my-vue-app -- --template vue
+   ```
+   
