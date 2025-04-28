@@ -44,6 +44,6 @@ Si vous développez une application de production, nous recommandons d'utiliser 
 ## NB
 1. Pour crée se projet, j'ai utiliser la comande suivante :
    ```
-   npm create vite@latest task-flow-react-jeff -- --template vue
+   npm create vite@latest task-flow-react-jeff -- --template react
    ```
    
